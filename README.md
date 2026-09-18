@@ -75,6 +75,15 @@ After completing the cleaning and validation process:
 
 📊 Power BI Dashboard
 
+Dashboard Preview
+
+![Healthcare Billing Dashboard](Screenshots/Dashboard.png)
+
+### Business Insights
+
+![Business Insights](Screenshots/Business_Insights.png)
+
+The cleaned dataset was imported into Power BI to create an interactive healthcare billing analytics dashboard.
 The cleaned dataset was imported into Power BI to create an interactive healthcare billing analytics dashboard.
 
 Dashboard Includes
